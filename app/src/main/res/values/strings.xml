@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFC读卡器</string>
+    <string name="scan_hint">将NFC卡贴近手机背面开始读取</string>
+    <string name="waiting">等待读取卡片...</string>
+    <string name="nfc_not_supported">此设备不支持 NFC。</string>
+    <string name="nfc_disabled">NFC 未开启，请在系统设置中打开。</string>
+</resources>
